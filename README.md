@@ -18,24 +18,26 @@ Support for Windows (x32 bit) and Linux Binaries would be released soon.
 - [ ] GTU Name Wise Student Finder
 
 # GTU Web Scraper
+Gtu Web Scraper GUI made using Python Tkinter
 ![GTU_Web_Scraper](https://github.com/Sentinal920/sentinal920.github.io/raw/master/gtuapp/Gtu-Web-Scraper.png)
 
 # GTU Result Fetcher
-<p>
-  <img src="https://github.com/Sentinal920/sentinal920.github.io/raw/master/gtuapp/Gtu-Result-1.png" width="350" title="Gtu Result-1">
-</p>
+GTU Result Fetcher that Fetches Students Results  
 ![GTU_Result_Fetcher](https://github.com/Sentinal920/sentinal920.github.io/raw/master/gtuapp/Gtu-Result-1.png)
 ![GTU_Result2_Fetcher](https://github.com/Sentinal920/sentinal920.github.io/raw/master/gtuapp/Gtu-Result-2.png)
 
 # GTU Passout Students Result Fetcher
+GTU All Result Fetcher that Fetches Any Student's Result (Passout/Current) 
 ![GTU_s_Result_Fetcher](https://github.com/Sentinal920/sentinal920.github.io/raw/master/gtuapp/Gtu-Pass-1.png)
 ![GTU_s_Result2_Fetcher](https://github.com/Sentinal920/sentinal920.github.io/raw/master/gtuapp/Gtu-Pass-2.png)
 
 # GTU Grade History
+GTU Grade History Fetcher that Fetches Students Grade for each semester  
 ![GTU_History_Fetcher](https://github.com/Sentinal920/sentinal920.github.io/raw/master/gtuapp/Gtu-History-1.png)
 ![GTU_History2_Fetcher](https://github.com/Sentinal920/sentinal920.github.io/raw/master/gtuapp/Gtu-History-2.png)
 
 # GTU Report Generator
+GTU Report Generator that Generates Students Progress Report for each Semester  
 ![GTU_s_Result_Fetcher](https://github.com/Sentinal920/sentinal920.github.io/raw/master/gtuapp/Gtu-Report-1.png)
 ![GTU_s_Result2_Fetcher](https://github.com/Sentinal920/sentinal920.github.io/raw/master/gtuapp/Gtu-Report-2.png)
 
