@@ -23,7 +23,7 @@ Support for Windows (x32 bit) and Linux Binaries would be released soon.
 ![GTU_Result_Fetcher](https://github.com/Sentinal920/sentinal920.github.io/raw/master/gtuapp/Gtu-Result-1.png)
 ![GTU_Result2_Fetcher](https://github.com/Sentinal920/sentinal920.github.io/raw/master/gtuapp/Gtu-Result-2.png)
 
-# GTU All Students Result Fetcher
+# GTU Passout Students Result Fetcher
 ![GTU_s_Result_Fetcher](https://github.com/Sentinal920/sentinal920.github.io/raw/master/gtuapp/Gtu-Pass-1.png)
 ![GTU_s_Result2_Fetcher](https://github.com/Sentinal920/sentinal920.github.io/raw/master/gtuapp/Gtu-Pass-2.png)
 
@@ -31,7 +31,7 @@ Support for Windows (x32 bit) and Linux Binaries would be released soon.
 ![GTU_History_Fetcher](https://github.com/Sentinal920/sentinal920.github.io/raw/master/gtuapp/Gtu-History-1.png)
 ![GTU_History2_Fetcher](https://github.com/Sentinal920/sentinal920.github.io/raw/master/gtuapp/Gtu-History-2.png)
 
-# GTU Report Fetcher
+# GTU Report Generator
 ![GTU_s_Result_Fetcher](https://github.com/Sentinal920/sentinal920.github.io/raw/master/gtuapp/Gtu-Report-1.png)
 ![GTU_s_Result2_Fetcher](https://github.com/Sentinal920/sentinal920.github.io/raw/master/gtuapp/Gtu-Report-2.png)
 
