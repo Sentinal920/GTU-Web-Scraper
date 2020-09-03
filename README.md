@@ -22,7 +22,7 @@ Support for Windows (x32 bit) and Linux Binaries would be released soon.
 
 # GTU Result Fetcher
 <p>
-  <img src="https://github.com/Sentinal920/sentinal920.github.io/raw/master/gtuapp/Gtu-Result-1.png" width="100" title="Gtu Result-1">
+  <img src="https://github.com/Sentinal920/sentinal920.github.io/raw/master/gtuapp/Gtu-Result-1.png" width="200" title="Gtu Result-1">
 </p>
 ![GTU_Result_Fetcher](https://github.com/Sentinal920/sentinal920.github.io/raw/master/gtuapp/Gtu-Result-1.png)
 ![GTU_Result2_Fetcher](https://github.com/Sentinal920/sentinal920.github.io/raw/master/gtuapp/Gtu-Result-2.png)
