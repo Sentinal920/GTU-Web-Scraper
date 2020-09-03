@@ -18,13 +18,12 @@ Support for Windows (x32 bit) and Linux Binaries would be released soon.
 - [ ] GTU Name Wise Student Finder
 
 # GTU Web Scraper
-<p align="center">
-  <img src="https://github.com/Sentinal920/sentinal920.github.io/raw/master/gtuapp/Gtu-Web-Scraper.png" width="350" title="Gtu Webscraper">
-</p>
-
 ![GTU_Web_Scraper](https://github.com/Sentinal920/sentinal920.github.io/raw/master/gtuapp/Gtu-Web-Scraper.png)
 
 # GTU Result Fetcher
+<p>
+  <img src="https://github.com/Sentinal920/sentinal920.github.io/raw/master/gtuapp/Gtu-Result-1.png" width="100" title="Gtu Result-1">
+</p>
 ![GTU_Result_Fetcher](https://github.com/Sentinal920/sentinal920.github.io/raw/master/gtuapp/Gtu-Result-1.png)
 ![GTU_Result2_Fetcher](https://github.com/Sentinal920/sentinal920.github.io/raw/master/gtuapp/Gtu-Result-2.png)
 
