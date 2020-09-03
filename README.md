@@ -1,7 +1,7 @@
 # GTU-Web-Scraper
 GTU Web Scraper, intentionally made so students don't have to wait for GTU's website to load when results are declared.
 
-#Requirements
+# Requirements
 #### Windows (x64 bit)
 
 Support for Windows (x32 bit) and Linux Binaries would be released soon.
