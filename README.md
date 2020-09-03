@@ -1,5 +1,6 @@
 # GTU-Web-Scraper
-GTU Web Scraper, intentionally made so students don't have to wait for GTU's website to load when results are declared.
+GTU's website hangs when student result is declared, webscraper helps in load balancing and student don't have to wait for GTU's website to load when results are declared.
+GTU Web Scraper, that fetches GTU Students result, their grade history per semester, generate report per semester and can also fetch result of passout students. It is intentionally made so students don't have to wait for GTU's website to load when results are declared.
 
 # Requirements
 #### Windows (x64 bit)
@@ -17,6 +18,10 @@ Support for Windows (x32 bit) and Linux Binaries would be released soon.
 - [ ] GTU Name Wise Student Finder
 
 # GTU Web Scraper
+<p align="center">
+  <img src="https://github.com/Sentinal920/sentinal920.github.io/raw/master/gtuapp/Gtu-Web-Scraper.png" width="350" title="Gtu Webscraper">
+</p>
+
 ![GTU_Web_Scraper](https://github.com/Sentinal920/sentinal920.github.io/raw/master/gtuapp/Gtu-Web-Scraper.png)
 
 # GTU Result Fetcher
