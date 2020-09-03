@@ -19,6 +19,7 @@ Support for Windows (x32 bit) and Linux Binaries would be released soon.
 
 # GTU Web Scraper
 Gtu Web Scraper GUI made using Python Tkinter
+
 ![GTU_Web_Scraper](https://github.com/Sentinal920/sentinal920.github.io/raw/master/gtuapp/Gtu-Web-Scraper.png)
 
 # GTU Result Fetcher
