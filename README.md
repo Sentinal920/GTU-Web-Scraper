@@ -1,7 +1,7 @@
 # GTU-Web-Scraper
 GTU's website stops working and hangs a lot when students result is declared, so i made a tool that helps in load balancing and student don't have to wait for GTU's website to load when results are declared.
 GTU Web Scraper, that fetches GTU Students result, their grade history per semester, generate report per semester and can also fetch result of passout students. It is intentionally made so students don't have to wait for GTU's website to load when results are declared.
-Although i'm calling it scraper it sends request directly to API ୧| ͡ᵔ ﹏ ͡ᵔ |୨
+Although i'm calling it scraper it sends request directly to API ᕙ(  • ‿ •  )ᕗ
 
 # Requirements
 #### Windows (x64 bit)
