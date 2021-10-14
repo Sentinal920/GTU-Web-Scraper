@@ -16,7 +16,7 @@ Support for Windows (x32 bit) and Linux Binaries would be released soon.
 - [x] GTU Passout Students Result Fetcher
 - [x] GTU Students Grade History Fetcher
 - [x] GTU Students Report Card Generator
-- [x] GTU Excel Generator
+- [x] GTU Students Result Excel Generator
 - [ ] GTU Institute Wise Student Display
 - [ ] GTU Name Wise Student Finder
 
